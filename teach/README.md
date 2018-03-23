@@ -1,6 +1,6 @@
 # 安装Python学习助手
 
-首先确认Python 3.4已安装。
+首先确认Python 3.4已安装。没确认也不怕，程序会自查的。
 
 # 下载learning.py
 
