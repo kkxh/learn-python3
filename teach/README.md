@@ -2,7 +2,7 @@
 
 首先确认Python 3.4已安装。没确认也不怕，程序会自查的。
 
-# 下载learning.py
+## 下载learning.py
 
 下载地址：
 
@@ -12,11 +12,11 @@
 
 放到某个目录，例如`C:\Work`下。
 
-# 运行命令：
+## 运行命令：
 
 切换到`learning.py`所在目录，运行：
 
-```
+```bash
 C:\Work> python learning.py
 ```
 
